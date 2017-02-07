@@ -1,0 +1,22 @@
+{
+  "name": "mean-scaffold",
+  "version": "1.0.5",
+  "bin": {
+    "mean-scaffold": "./script.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheldonbazzell/mean_scaffold.git"
+  },
+  "author": [
+    "Sheldon Bazzell sheldon.bazzell@gmail.com",
+    "Thomas Fowler tkfowler13@gmail.com",
+    "Wallis Wong ywong84@gmail.com",
+    "Garrett Katashima gkatashima@gmail.com"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheldonbazzell/mean_scaffold/issues"
+  },
+  "homepage": "https://github.com/sheldonbazzell/mean_scaffold#readme"
+}
